@@ -1,6 +1,6 @@
 ---
 title: "Chao Zhang's Lab - Team"
-layout: default
+layout: page-a
 excerpt: "Chao Zhang's Lab: Team members"
 sitemap: false
 permalink: /team/
