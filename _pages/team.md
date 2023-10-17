@@ -1,6 +1,6 @@
 ---
 title: "Chao Zhang's Lab - Team"
-layout: defult2
+layout: default
 excerpt: "Chao Zhang's Lab: Team members"
 sitemap: false
 permalink: /team/
