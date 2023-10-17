@@ -22,7 +22,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{chaozhanghnu.github.io/chaozhanghnu2.github.io/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info1 }} <br> {{ member.info2 }}</i>
   <ul style="overflow: hidden">
